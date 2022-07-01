@@ -30,6 +30,7 @@ Estou aprendendo e uso no meu dia a dia
   <a href="https://www.linkedin.com/in/viniciusgbsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vinicius.gabriel001@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br><br>
+    
    ![Snake animation](https://github.com/viniciusgbsantos/viniciusgbsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
 <img alt="Gráfico de atividade de Vinicius" src="https://activity-graph.herokuapp.com/graph?username=viniciusgbsantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
