@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="left">
-#### Estou aprendendo e uso no meu dia a dia
+Estou aprendendo e uso no meu dia a dia
 <br><br>
 </div>
 <div align="left" style="display: inline_block">
@@ -24,10 +24,10 @@
   <img align="center" alt="WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">  
   <img align="right" alt="Logo Shark" height="150" style="border-radius:50px;" src="https://www.viniciusbernardes.com.br/img/icone-shark.png">
 </div>
- ##
+<br><br>
 <div> 
-  <a href="https://instagram.com/sharkboyjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciusgbsantos" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-            badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/sharkboyjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusgbsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "vinicius.gabriel001@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
    ![Snake animation](https://github.com/viniciusgbsantos/viniciusgbsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
