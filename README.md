@@ -33,4 +33,4 @@ Estou aprendendo e uso no meu dia a dia
     
    ![Snake animation](https://github.com/viniciusgbsantos/viniciusgbsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
-<img alt="Gráfico de atividade de Vinicius" src="https://activity-graph.herokuapp.com/graph?username=viniciusgbsantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
