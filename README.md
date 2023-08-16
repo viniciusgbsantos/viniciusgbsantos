@@ -5,11 +5,6 @@
     <a href="https://www.viniciusbernardes.com.br/"><strong>Clique aqui e veja meu site</strong></a>  
     <br><br>
 </div>
-<div align="center">
-  <a href="https://github.com/viniciusgbsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgbsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgbsantos&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
 <br>
 <div align="left">
 Estou aprendendo e uso no meu dia a dia
@@ -31,6 +26,5 @@ Estou aprendendo e uso no meu dia a dia
   <a href="mailto:vinicius.gabriel001@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br><br>
     
-   ![Snake animation](https://github.com/viniciusgbsantos/viniciusgbsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
